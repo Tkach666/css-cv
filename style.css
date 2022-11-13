@@ -1,0 +1,26 @@
+body{
+    background: azure;
+}
+
+header{
+    background-color: khaki;
+}
+
+.menu li{
+    display: inline;
+}
+
+main{
+    color: blue;
+    background-color: lightsalmon;
+}
+
+aside{
+    
+    background-color: lemonchiffon;
+}
+
+footer{
+    background-color: bisque;
+    color: red;
+}
